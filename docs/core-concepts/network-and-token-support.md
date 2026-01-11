@@ -241,7 +241,7 @@ Key takeaways:
 
 Next, explore:
 
-* Quickstart for Sellers — Start accepting payments on supported networks
-* Core Concepts — Learn how x402 works under the hood
-* Facilitator — Understand the role of facilitators
-* MCP Server — Set up AI agents to use x402 payments
+* [Quickstart for Sellers](../getting-started/quickstart-for-sellers.md) — Start accepting payments on supported networks
+* [Core Concepts](http-402.md) — Learn how x402 works under the hood
+* [Facilitator](facilitator.md) — Understand the role of facilitators
+* [MCP Server](../guides/mcp-server-with-x402.md) — Set up AI agents to use x402 payments
